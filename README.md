@@ -1,0 +1,2 @@
+# Assignment_5
+The dataset for online sales that I started with came from Kaggle. The dataset was then divided in half, with the column name "index" remaining the same. After that, load the dataset and import the necessary Python libraries. Then, using the drop () method, remove any columns with null values from the dataset. Finally, I combined two datasets into one using Python's merge() method and the "os='index'" function, which made the index column the common column in the two datasets.
